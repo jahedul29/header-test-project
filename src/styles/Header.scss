@@ -31,7 +31,7 @@
   }
 
   .headerContentWrapper {
-    width: 60%;
+    width: 50%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -43,6 +43,7 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
+
       &:hover {
         color: #707070;
       }
